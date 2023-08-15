@@ -7,11 +7,13 @@ The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anth
 
 **November 13th, 2023**
 
-**ADD SCHEDULE**
+*ADD SCHEDULE*
+
+*Drag and drop to upload image*
 
 **November 20th, 2023**
 
-**ADD SCHEDULE**
+*ADD SCHEDULE*
 
 ## Overleaf
 
@@ -22,6 +24,6 @@ A useful resource are the [Overleaf Tutorials](https://www.overleaf.com/learn).
 
 You will be given time near the end of the second course day on May 23rd to fill out the evaluation. You can find it by scanning the QR code below or by going here: **LINK** 
 
-**ADD QR Code**
+*ADD QR Code*
 
 Thank you for taking the time to complete the evaluation!
