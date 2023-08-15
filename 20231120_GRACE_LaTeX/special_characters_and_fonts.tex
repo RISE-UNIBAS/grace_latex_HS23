@@ -1,0 +1,48 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage{allrunes} % for runes
+\usepackage[safe]{tipa} % for superscribed letters using \sups{}{}
+\renewcommand{\sups}[2]{\textipa{\tipaUpperaccent[.2ex]{%
+ 			\lower.8ex\hbox{\super{#2}}}{#1}}} % redefines appearance of superscribed letter
+\usepackage[icelandic]{babel} 
+\usepackage[T1]{fontenc} % specifies font encoding; T1 includes accented characters as individual glyphs, summing up to 256 characters (as opposed to the default font encoding (OT1) of TeX, which is 7-bit and uses fonts that have 128 glyphs)
+\usepackage[utf8]{inputenc} % for UTF 8 support
+\usepackage{yfonts} % includes gothic, fraktur and schwabacher font
+\usepackage{url} % let's urls appear in typewriter style
+\title{Special characters and fonts}
+\date{\vspace{-5ex}} % removes the date in an easy, but a bit unelegant way
+
+\begin{document}
+
+\maketitle
+
+\section{Package \texttt{allrunes}}
+\url{https://ctan.math.illinois.edu/fonts/allrunes/allrunes.pdf}\par\medskip
+
+\subsection{Germanic Runes}
+\textarc{fu\th \H j Rs M d}
+
+\subsection{Anglo-Frisian Runes}
+\textara{fu\th \H j Rs M d}
+
+\subsection{Normal Runes}
+\textarn{fu\th \H j Rs M d}
+
+\subsection{Medieval Runes}
+\textarm{fu\th \H j Rs M d}
+
+\section{Middle High/Low German(ic) characters}
+
+\subsection{Superscripts}
+z\r{u} mînem br\r{u}der\\
+r\sups{o}{e}msche k\"unge
+
+\subsection{Special characters 1}
+þÞ æ Æ ð Ð
+
+\subsection{Special characters 2}
+Either find it in the symbols list (\url{https://www.cl.uni-heidelberg.de/courses/ss19/wissschreib/material/symbols-a4.pdf}) or use the \texttt{xunicode} package (and another compiler, XeLaTeX).
+
+\section{Special fonts}
+A lot of special fonts are available online -- you can even produce documents using Comic Sans (with a bit of passion and installation), or \textgoth{Gothic script}. 
+
+\end{document}
