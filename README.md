@@ -7,13 +7,11 @@ The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anth
 
 **November 13th, 2023**
 
-*ADD SCHEDULE*
-
-*Drag and drop to upload image*
+![Bildschirmfoto 2023-10-27 um 10 52 30](https://github.com/RISE-UNIBAS/grace_latex_HS23/assets/94174603/ede25233-0151-4f2b-a683-eb159fc4f7a6)
 
 **November 20th, 2023**
 
-*ADD SCHEDULE*
+![Bildschirmfoto 2023-10-27 um 10 53 38](https://github.com/RISE-UNIBAS/grace_latex_HS23/assets/94174603/f69b525b-7b0a-41d1-b7e2-0d5d9695c113)
 
 ## Overleaf
 
@@ -22,8 +20,8 @@ A useful resource are the [Overleaf Tutorials](https://www.overleaf.com/learn).
 
 ## Evaluation
 
-You will be given time near the end of the second course day on May 23rd to fill out the evaluation. You can find it by scanning the QR code below or by going here: **LINK** 
+You will be given time near the end of the second course day on May 23rd to fill out the evaluation. You can find it by scanning the QR code below or by going here: https://k11331.evasys.de/evasys/online.php?p=WV2YX
 
-*ADD QR Code*
+![qrcode](https://github.com/RISE-UNIBAS/grace_latex_HS23/assets/94174603/14a8f3a8-4f21-4a44-9a00-8253cc5338aa)
 
 Thank you for taking the time to complete the evaluation!
