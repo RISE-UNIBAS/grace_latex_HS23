@@ -20,7 +20,7 @@ A useful resource are the [Overleaf Tutorials](https://www.overleaf.com/learn).
 
 ## Evaluation
 
-You will be given time near the end of the second course day on May 23rd to fill out the evaluation. You can find it by scanning the QR code below or by going here: https://k11331.evasys.de/evasys/online.php?p=WV2YX
+You will be given time near the end of the second course day on November 20th to fill out the evaluation. You can find it by scanning the QR code below or by going here: https://k11331.evasys.de/evasys/online.php?p=WV2YX
 
 ![QRCode_Evaluation_LaTeX Crash Course](https://github.com/RISE-UNIBAS/grace_latex_HS23/assets/94174603/d8fcb116-28a8-4f35-8ee1-1827bc167355)
 
