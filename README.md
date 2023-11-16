@@ -11,7 +11,7 @@ The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anth
 
 **November 20th, 2023**
 
-Schedule coming soon
+![Bildschirmfoto 2023-11-16 um 14 02 38](https://github.com/RISE-UNIBAS/grace_latex_HS23/assets/94174603/7ec17354-f235-4e7d-ac9b-d85563228e71)
 
 ## Overleaf
 
